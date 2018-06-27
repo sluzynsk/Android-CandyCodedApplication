@@ -49,6 +49,6 @@ public class InfoActivity extends AppCompatActivity {
 
         phoneIntent.setData(uri);
         startActivity(phoneIntent);
-        
+
     }
 }
